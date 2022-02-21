@@ -1,0 +1,2 @@
+<h1>Rangkuman Pertemuan 2</h1>
+Memahami dan mengetahui cara implementasi Control Flow pada python antara lain for, if, range function, break & continue, pass statements, match statements, defining function.
